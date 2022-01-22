@@ -1,0 +1,8 @@
+{
+  "name": "sample-template",
+  "version": "1.0.0",
+  "description": "This is sample application to create React boilerplate",
+  "engines": {
+    "node": ">=14"
+  }
+}
